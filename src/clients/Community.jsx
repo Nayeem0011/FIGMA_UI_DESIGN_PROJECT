@@ -1,6 +1,6 @@
 import icon1 from "../assets/icon.jpg"
-import icon2 from "../assets/icon (1).jpg"
-import icon3 from "../assets/icon (2).jpg"
+import icon2 from "../assets/icon1.jpg"
+import icon3 from "../assets/icon2.jpg"
 
 const Community = () => {
   return (
