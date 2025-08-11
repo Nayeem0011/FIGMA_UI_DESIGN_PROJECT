@@ -1,8 +1,8 @@
 import logo from "../assets/footer_logo.svg"
-import icons1 from "../assets/social_Icons1.svg"
-import icons2 from "../assets/social_Icons2.svg"
-import icons3 from "../assets/social_Icons3.svg"
-import icons4 from "../assets/social_Icons4.svg"
+import icons1 from "../assets/social_icons1.svg"
+import icons2 from "../assets/social_icons2.svg"
+import icons3 from "../assets/social_icons3.svg"
+import icons4 from "../assets/social_icons4.svg"
 import icons5 from "../assets/send.svg"
 
 const Footer = () => {
