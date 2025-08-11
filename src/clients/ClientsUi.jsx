@@ -1,10 +1,10 @@
-import img1 from "../assets/logo2.jpg";
-import img2 from "../assets/logo3.jpg";
-import img3 from "../assets/logo4.jpg";
-import img4 from "../assets/logo5.jpg";
-import img5 from "../assets/logo6.jpg";
-import img6 from "../assets/logo7.jpg";
-import img7 from "../assets/logo8.jpg";
+import img1 from "../assets/Logo2.jpg";
+import img2 from "../assets/Logo3.jpg";
+import img3 from "../assets/Logo4.jpg";
+import img4 from "../assets/Logo5.jpg";
+import img5 from "../assets/Logo6.jpg";
+import img6 from "../assets/Logo7.jpg";
+import img7 from "../assets/Logo8.jpg";
 
 const ClientsUi = () => {
 
